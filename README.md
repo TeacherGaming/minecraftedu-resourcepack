@@ -1,6 +1,6 @@
-# MinecraftEdu Resourcepack
+# MinecraftEdu Resource Pack
 
-Default resourcepack for MinecraftEdu. This repository will be updated as we update the resource pack inside MinecraftEdu. Feel free to fork & show off your changes & custom resourcepacks! :)
+Default resource pack for MinecraftEdu. This repository will be updated as we update the resource pack inside MinecraftEdu. Feel free to fork & show off your changes & custom resource packs! :)
 
 ## License
 
